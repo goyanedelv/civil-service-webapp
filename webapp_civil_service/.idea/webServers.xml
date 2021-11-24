@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="19cfec0e-03c8-44c2-8dbf-56f790852182" name="webserver">
+        <fileTransfer rootFolder="/home/gov" accessType="SFTP" host="ec2-52-14-115-151.us-east-2.compute.amazonaws.com" port="22" sshConfigId="d12ead73-24cb-426d-86c9-d7e435872292" sshConfig="gov@ec2-52-14-115-151.us-east-2.compute.amazonaws.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ace7d226-60f8-4eaa-a2d9-a14c67a888f4" name="workingserver">
+        <fileTransfer rootFolder="/home/hadoop/gov" accessType="SFTP" host="ec2-3-144-71-8.us-east-2.compute.amazonaws.com" port="22" sshConfigId="f301b46d-5814-41c4-93f2-96c42e450a8f" sshConfig="hadoop@ec2-3-144-71-8.us-east-2.compute.amazonaws.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -50,9 +50,9 @@
 	text-align:center;
 	border-width:0px 0px 1px 1px;
 	font-size:18px;
-	font-family:Comic Sans MS;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
 	font-weight:bold;
-	color:#ffffff;
+	color:black;
 }.CSSTableGenerator tr:first-child:hover td{
 	background:-o-linear-gradient(bottom, #0069d3 5%, #007fff 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #0069d3), color-stop(1, #007fff) );
 	background:-moz-linear-gradient( center top, #0069d3 5%, #007fff 100% );
@@ -66,13 +66,13 @@
 	background:-o-linear-gradient(bottom, #56aaff 5%, #82c0ff 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #56aaff), color-stop(1, #82c0ff) ); 
 	background:-moz-linear-gradient( center top, #56aaff 5%, #82c0ff 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#56aaff", endColorstr="#82c0ff");	background: -o-linear-gradient(top,#56aaff,82c0ff);
-	background-color:#56aaff;
+	background-color:white;
 	border:1px solid #000000;
 	border-width:0px 1px 1px 0px;
 	text-align:left;
 	padding:7px;
 	font-size:12px;
-	font-family:Comic Sans MS;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
 	font-weight:bold;
 	color:#000000;
 }.CSS_Table_Example tr:last-child td{

@@ -14,30 +14,26 @@ var hclient = hbase({ host: process.argv[3], port: Number(process.argv[4])})
 function rowToMap(row) {
 	var stats = {}
 	row.forEach(function (item) {
-		stats[item['column']] = Number(item['$'])
+		stats[item['column']] = item['$']
 	});
 
 	return stats;
 }
 
-hclient.table('gov_electoral_data').row('2549693').get((error, value) => {
+hclient.table('gov_electoral_data').row('10001064').get((error, value) => {
 	console.info(rowToMap(value))
 	console.info(value)
 })
 
 app.use(express.static('public'));
 app.get('/delays.html',function (req, res) {
-    const route=req.query['unique_id'] /*+ req.query['dest']*/;
+    const route=req.query['unique_id'];
     console.log(route);
 	hclient.table('gov_electoral_data').row(route).get(function (err, cells) {
 		const electoralInfo = rowToMap(cells);
 		console.log(electoralInfo)
 		function electoral_data(mapper) {
-			var information = electoralInfo[mapper]/*weatherInfo["delay:" + weather + "_flights"];*/
-			/*var delays = weatherInfo["delay:" + weather + "_delays"];*/
-			/*if(flights == 0)
-				return " - ";
-			return (delays/flights).toFixed(1); *//* One decimal place */
+			var information = electoralInfo["elect:"+mapper];
 			return information;
 		}
 

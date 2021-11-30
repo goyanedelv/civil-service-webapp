@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html>
   <head>
-    <title>Voting information</title>
+    <title>Electoral statistics</title>
     <link type="text/css" rel="stylesheet" href="table.css" />
     <style>
       h1{
@@ -19,24 +19,31 @@
 
   </head>
   <body>
-    <div><p> Electoral data for {{full_name}} (ID: {{unique_id}}) &nbsp;</p></div>
+    <div><p> Electoral stats for {{district_name}} &nbsp;</p></div>
     <p style="bottom-margin:10px">
       <table class="CSS_Table_Example" style="width:60%;margin:auto;">
         <tr>
-            <td>Information</td><td>Value</td>
+            <td>Disctrict</td><td>{{district_name}}</td>
         </tr>
         <tr>
-          <td>District</td><td>{{circunscripcion}}</td>
+          <td>Registered voters</td><td>{{registered}}</td>
         </tr>
 	      <tr>
-          <td>Party</td><td>{{partido}}</td>
-          </tr>
-        <tr>
-            <td>Voting Center</td><td>{{locale}}</td>
+          <td>Voted in last election</td><td>{{voters_last}}</td>
         </tr>
         <tr>
-            <td>Voting Unit</td><td>{{mesa}}</td>
+            <td>Participation</td><td>{{share}}%</td>
         </tr>
+        <tr>
+            <td>Income Poverty Index</td><td>{{poverty_income}}%</td>
+        </tr>
+        <tr>
+            <td>Mutidimension Poverty Index</td><td>{{poverty_multi}}%</td>
+        </tr>
+        <tr>
+            <td>Vulnerability Index</td><td>{{vulnerability}}</td>
+        </tr>
+    
       </table>
     </p>
 </body></html>

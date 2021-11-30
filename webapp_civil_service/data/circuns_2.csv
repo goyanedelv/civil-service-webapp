@@ -1,0 +1,792 @@
+﻿Circunscripcion;poverty_income;poverty_multi;vulnerability
+Iquique;0.04383602;0.19738419;Not vulnerable
+Alto Hospicio;0.07755472;0.27545137;Not vulnerable
+Pozo Almonte;0.10880112;0.38811721;Average
+Camiña;0.2644559;0.51823161;Vulnerable
+Colchane;0.13947724;0.63507166;Average
+Huara;0.18823709;0.46539751;Average
+Pica;0.08634709;0.32262944;Not vulnerable
+Mejillones;0.07660999;0.21993828;Not vulnerable
+Sierra Gorda;0.01411298;0.25258953;Not vulnerable
+Taltal;0.03510796;0.26013415;Not vulnerable
+Calama;0.04585084;0.13672058;Not vulnerable
+San Pedro de Atacama;0.04036739;0.22052581;Not vulnerable
+Tocopilla;0.10404051;0.20080845;Average
+Maria Elena;0.0499388;0.18503285;Not vulnerable
+Copiapo;0.06261117;0.23326927;Not vulnerable
+Caldera;0.10440639;0.20353822;Average
+Tierra Amarilla;0.14250434;0.31413365;Average
+Chañaral;0.12068847;0.25230111;Average
+Diego de Almagro;0.07561532;0.17835833;Not vulnerable
+Vallenar;0.08833259;0.21206309;Not vulnerable
+Alto del Carmen;0.15272638;0.282524;Average
+Freirina;0.15726887;0.32862593;Average
+Huasco;0.0972109;0.17347754;Not vulnerable
+La Serena;0.10244341;0.20130682;Average
+Coquimbo;0.134088;0.18032798;Average
+Andacollo;0.14848801;0.26149514;Average
+La Higuera;0.20537325;0.40254275;Vulnerable
+Vicuña;0.12251948;0.23208108;Average
+Illapel;0.12024203;0.25355535;Average
+Los Vilos;0.13812151;0.29480047;Average
+Salamanca;0.12528704;0.27214893;Average
+Ovalle;0.05741716;0.26120325;Not vulnerable
+Combarbala;0.16209725;0.33468489;Average
+Monte Patria;0.21362812;0.3350417;Vulnerable
+Punitaqui;0.25163395;0.35973611;Vulnerable
+Casablanca;0.08921629;0.16934199;Not vulnerable
+Concon;0.0241616;0.17131794;Not vulnerable
+Juan Fernandez;0.05117331;0.17572014;Not vulnerable
+Puchuncavi;0.08445788;0.2794185;Not vulnerable
+Quintero;0.0528949;0.26914333;Not vulnerable
+Isla de Pascua;0.08118237;0.21650867;Not vulnerable
+Los Andes;0.07006698;0.11894771;Not vulnerable
+Calle Larga;0.17179798;0.16754735;Average
+Rinconada;0.10531131;0.22155365;Average
+San Esteban;0.1069641;0.12561534;Average
+La Ligua;0.1666296;0.24890117;Average
+Cabildo;0.16371276;0.25332233;Average
+Papudo;0.07631796;0.19109505;Not vulnerable
+Petorca;0.10160992;0.19327797;Average
+Zapallar;0.04502509;0.24607102;Not vulnerable
+Quillota;0.09929992;0.19778726;Not vulnerable
+Calera;0.15768471;0.23146391;Average
+Hijuelas;0.08977012;0.32145465;Not vulnerable
+La Cruz;0.06928084;0.19806905;Not vulnerable
+Nogales;0.07717904;0.39116577;Not vulnerable
+San Antonio;0.07510975;0.1884508;Not vulnerable
+Algarrobo;0.03274533;0.16914121;Not vulnerable
+Cartagena;0.06865372;0.22976924;Not vulnerable
+El Quisco;0.03433246;0.20472051;Not vulnerable
+El Tabo;0.06201755;0.16904692;Not vulnerable
+Santo Domingo;0.03979914;0.17076639;Not vulnerable
+San Felipe;0.08170019;0.1992491;Not vulnerable
+Catemu;0.16867505;0.22322502;Average
+Panquehue;0.10167596;0.22818079;Average
+Putaendo;0.09252123;0.33744685;Not vulnerable
+Santa Maria;0.12910137;0.15794516;Average
+Quilpue;0.0525402;0.1205847;Not vulnerable
+Limache;0.0444495;0.30290267;Not vulnerable
+Olmue;0.06921792;0.28029631;Not vulnerable
+Villa Alemana;0.03731373;0.14397465;Not vulnerable
+Rancagua;0.10638726;0.13225588;Average
+Codegua;0.08943369;0.18721809;Not vulnerable
+Coinco;0.14438583;0.312365;Average
+Coltauco;0.14442604;0.22141236;Average
+Doñihue;0.07490566;0.16602815;Not vulnerable
+Graneros;0.07011657;0.18512352;Not vulnerable
+Las Cabras;0.1333034;0.1819074;Average
+Machali;0.07241851;0.17981453;Not vulnerable
+Malloa;0.12141748;0.23890576;Average
+Mostazal;0.09991279;0.26223919;Not vulnerable
+Peumo;0.12510976;0.24307861;Average
+Pichidegua;0.11634192;0.24221957;Average
+Quinta De Tilcoco;0.12904192;0.29742149;Average
+Rengo;0.10198429;0.15455621;Average
+Requinoa;0.07708853;0.26884638;Not vulnerable
+San Vicente;0.07108059;0.1927464;Not vulnerable
+Pichilemu;0.04056908;0.25087176;Not vulnerable
+La Estrella;0.14014257;0.21715486;Average
+Litueche;0.09825092;0.21221844;Not vulnerable
+Marchigue;0.06259719;0.19376644;Not vulnerable
+Navidad;0.1171075;0.31339207;Average
+Paredones;0.1478546;0.24778167;Average
+San Fernando;0.10123158;0.18332937;Average
+Chepica;0.11950377;0.28034751;Average
+Chimbarongo;0.15857141;0.21476203;Average
+Lolol;0.13359179;0.2193882;Average
+Nancagua;0.11174936;0.15727458;Average
+Palmilla;0.09127718;0.26839395;Not vulnerable
+Peralillo;0.07602012;0.18645861;Not vulnerable
+Placilla;0.17643578;0.21150043;Average
+Pumanque;0.10663007;0.24688695;Average
+Santa Cruz;0.0496429;0.15908295;Not vulnerable
+Talca;0.07981595;0.17092195;Not vulnerable
+Constitucion;0.07541426;0.20843868;Not vulnerable
+Curepto;0.15417901;0.31520738;Average
+Empedrado;0.16625834;0.37588125;Average
+Maule;0.1103221;0.31072966;Average
+Pelarco;0.15974821;0.29122541;Average
+Pencahue;0.0849309;0.3173921;Not vulnerable
+Rio Claro;0.10634282;0.27756753;Average
+San Clemente;0.16650646;0.35652126;Average
+San Rafael;0.06977858;0.23458422;Not vulnerable
+Cauquenes;0.20000014;0.26197959;Vulnerable
+Chanco;0.20374063;0.43418023;Vulnerable
+Pelluhue;0.19376692;0.29974462;Average
+Curico;0.09851311;0.15172951;Not vulnerable
+Hualañe;0.21385008;0.21142252;Vulnerable
+Licanten;0.23263637;0.24303982;Vulnerable
+Molina;0.13050635;0.16622861;Average
+Rauco;0.18138953;0.23621109;Average
+Romeral;0.11690577;0.24059632;Average
+Sagrada Familia;0.1567053;0.19940694;Average
+Teno;0.09153017;0.20634385;Not vulnerable
+Vichuquen;0.17128331;0.37365512;Average
+Linares;0.11340097;0.22914411;Average
+Colbun;0.25091513;0.30506398;Vulnerable
+Longavi;0.2385037;0.37316719;Vulnerable
+Parral;0.16911426;0.23397966;Average
+Retiro;0.22514205;0.31913125;Vulnerable
+San Javier;0.20021908;0.29433982;Vulnerable
+Villa Alegre;0.19620953;0.30523182;Average
+Yerbas Buenas;0.22078633;0.32913822;Vulnerable
+Coronel;0.11355252;0.14545671;Average
+Chiguayante;0.08714971;0.12647706;Not vulnerable
+Florida;0.15872625;0.37827812;Average
+Hualqui;0.12908332;0.22151223;Average
+Lota;0.18130009;0.19616061;Average
+Penco;0.08586593;0.18259738;Not vulnerable
+San Pedro de la Paz;0.12170364;0.1588287;Average
+Santa Juana;0.15478639;0.29732238;Average
+Talcahuano;0.07914328;0.16653557;Not vulnerable
+Tome;0.07272963;0.21713104;Not vulnerable
+Hualpen;0.10529945;0.10954233;Average
+Lebu;0.132473;0.32239832;Average
+Arauco;0.15933187;0.1839622;Average
+Cañete;0.15803516;0.20061957;Average
+Contulmo;0.24216284;0.29969568;Vulnerable
+Curanilahue;0.12304258;0.12045073;Average
+Los alamos;0.16085991;0.26651771;Average
+Tirua;0.26080515;0.34881546;Vulnerable
+Los angeles;0.17415379;0.16133263;Average
+Antuco;0.28763007;0.19788192;Vulnerable
+Cabrero;0.11202894;0.14102765;Average
+Mulchen;0.14801229;0.24379123;Average
+Nacimiento;0.17353189;0.25728964;Average
+Negrete;0.17865508;0.22914528;Average
+Quilaco;0.21121315;0.27591058;Vulnerable
+Quilleco;0.16048127;0.25581265;Average
+San Rosendo;0.20803186;0.17903816;Vulnerable
+Santa Barbara;0.16387206;0.24442625;Average
+Tucapel;0.1576684;0.19366997;Average
+Yumbel;0.21028359;0.24692465;Vulnerable
+Alto Biobio;0.39734079;0.60732401;Vulnerable
+Carahue;0.24396579;0.51377302;Vulnerable
+Cunco;0.19653942;0.34190476;Average
+Curarrehue;0.22847045;0.54114033;Vulnerable
+Freire;0.24020264;0.34135564;Vulnerable
+Galvarino;0.37286297;0.54443293;Vulnerable
+Gorbea;0.11297005;0.30234953;Average
+Lautaro;0.16795547;0.22130998;Average
+Loncoche;0.30205946;0.3107614;Vulnerable
+Melipeuco;0.25711641;0.4064021;Vulnerable
+Nueva Imperial;0.19880688;0.43547636;Average
+Padre las Casas;0.196222;0.36161374;Average
+Perquenco;0.219331;0.33647659;Vulnerable
+Pitrufquen;0.10642299;0.2809266;Average
+Pucon;0.08912129;0.27557437;Not vulnerable
+Saavedra;0.35380893;0.54229918;Vulnerable
+Teodoro Schmidt;0.27462362;0.3580627;Vulnerable
+Tolten;0.35105058;0.46377859;Vulnerable
+Vilcun;0.31972391;0.4359139;Vulnerable
+Villarrica;0.12514797;0.27534851;Average
+Cholchol;0.41604544;0.54167772;Vulnerable
+Angol;0.15559463;0.2126753;Average
+Collipulli;0.24027875;0.36564783;Vulnerable
+Curacautin;0.14214784;0.25977156;Average
+Ercilla;0.26687255;0.47276071;Vulnerable
+Lonquimay;0.33480922;0.54934608;Vulnerable
+Los Sauces;0.24080369;0.37334062;Vulnerable
+Lumaco;0.33320903;0.47214555;Vulnerable
+Puren;0.1770292;0.40113289;Average
+Renaico;0.18578177;0.22198853;Average
+Traiguen;0.21272821;0.32287048;Vulnerable
+Victoria;0.22497901;0.32619713;Vulnerable
+Calbuco;0.13465872;0.41103062;Average
+Cochamo;0.13594979;0.34148517;Average
+Fresia;0.18037101;0.32598359;Average
+Frutillar;0.10357;0.26395348;Average
+Los Muermos;0.10406882;0.3426447;Average
+Llanquihue;0.13691201;0.21309504;Average
+Maullin;0.16350048;0.3075604;Average
+Puerto Varas;0.05874276;0.21093638;Not vulnerable
+Castro;0.10125657;0.23231826;Average
+Ancud;0.14518747;0.25042273;Average
+Chonchi;0.12779166;0.34460325;Average
+Curaco De Velez;0.13809998;0.31563732;Average
+Dalcahue;0.11601071;0.25299398;Average
+Puqueldon;0.13815176;0.38648381;Average
+Queilen;0.1980326;0.41256904;Average
+Quellon;0.13116244;0.36292533;Average
+Quemchi;0.20322162;0.39798921;Vulnerable
+Osorno;0.08518271;0.22033351;Not vulnerable
+Puerto Octay;0.13996886;0.27432036;Average
+Purranque;0.1123131;0.29530678;Average
+Rio Negro;0.15314492;0.27933586;Average
+San Juan de la Costa;0.32140196;0.53323309;Vulnerable
+San Pablo;0.16609207;0.31613864;Average
+Chaiten;0.12169462;0.26697705;Average
+Futaleufu;0.10714858;0.28724009;Average
+Hualaihue;0.16991809;0.29420334;Average
+Palena;0.09957714;0.23938687;Not vulnerable
+Coyhaique;0.02783752;0.18118717;Not vulnerable
+Lago Verde;0.12039172;0.24961795;Average
+Cisnes;0.06501931;0.17707007;Not vulnerable
+Guaitecas;0.12203723;0.23771306;Average
+Cochrane;0.05884153;0.21817137;Not vulnerable
+Tortel;0.14457947;0.27297255;Average
+Chile Chico;0.05257007;0.20140253;Not vulnerable
+Rio Ibañez;0.06549319;0.2687927;Not vulnerable
+Punta Arenas;0.02074918;0.10262304;Not vulnerable
+Laguna Blanca;0.02925657;0.02656705;Not vulnerable
+Rio Verde;0.00715318;0.09023525;Not vulnerable
+San Gregorio;0.01344931;0.05825317;Not vulnerable
+Porvenir;0.02104077;0.08291291;Not vulnerable
+Primavera;0.0232769;0.0816723;Not vulnerable
+Timaukel;0.00403033;0.00620752;Not vulnerable
+Natales;0.02325635;0.14135254;Not vulnerable
+Cerrillos;0.06476164;0.27421767;Not vulnerable
+Cerro Navia;0.07585763;0.34635699;Not vulnerable
+Huechuraba;0.05638061;0.2884373;Not vulnerable
+Independencia;0.08502842;0.20910529;Not vulnerable
+La Cisterna;0.06596486;0.17820372;Not vulnerable
+La Granja;0.04751198;0.21910374;Not vulnerable
+La Pintana;0.14142132;0.3273877;Average
+La Reina;0.00985902;0.06936215;Not vulnerable
+Lo Barnechea;0.02842101;0.17182714;Not vulnerable
+Lo Prado;0.05778872;0.24484662;Not vulnerable
+Macul;0.07454475;0.13472951;Not vulnerable
+Maipu;0.02569542;0.13220459;Not vulnerable
+Peñalolen;0.04369371;0.26276122;Not vulnerable
+Providencia;0.00431632;0.03383548;Not vulnerable
+Pudahuel;0.08245532;0.22505142;Not vulnerable
+Quilicura;0.05682917;0.17923171;Not vulnerable
+Quinta Normal;0.0372703;0.23482269;Not vulnerable
+Recoleta Norte;0.06894474;0.22503532;Not vulnerable
+Renca;0.03729648;0.24522084;Not vulnerable
+San Joaquin;0.05238959;0.21101154;Not vulnerable
+San Miguel;0.04846963;0.17245069;Not vulnerable
+San Ramon;0.04602968;0.27939963;Not vulnerable
+Vitacura;0.00134706;0.03482807;Not vulnerable
+Puente Alto;0.07293881;0.23313428;Not vulnerable
+Pirque;0.04745061;0.2032582;Not vulnerable
+San Jose de Maipo;0.05990317;0.23993066;Not vulnerable
+Colina;0.06395853;0.25462612;Not vulnerable
+Lampa;0.03607469;0.25755729;Not vulnerable
+Tiltil;0.0679488;0.23666077;Not vulnerable
+San Bernardo;0.09424567;0.26069268;Not vulnerable
+Buin;0.08040875;0.24929632;Not vulnerable
+Calera de Tango;0.03529564;0.22060073;Not vulnerable
+Paine;0.04239802;0.22330431;Not vulnerable
+Melipilla;0.05167612;0.24922144;Not vulnerable
+Alhue;0.06712937;0.20279452;Not vulnerable
+Curacavi;0.07438832;0.22553595;Not vulnerable
+Maria Pinto;0.10800503;0.33142473;Average
+San Pedro;0.09271245;0.31838821;Not vulnerable
+Talagante;0.0370787;0.21327123;Not vulnerable
+El Monte;0.08728387;0.33670084;Not vulnerable
+Isla de Maipo;0.08332956;0.27242941;Not vulnerable
+Padre Hurtado;0.08775394;0.21615951;Not vulnerable
+Peñaflor;0.04890097;0.13461507;Not vulnerable
+Valdivia;0.07639297;0.14069017;Not vulnerable
+Corral;0.23147843;0.35039539;Vulnerable
+Lanco;0.19184744;0.25794384;Average
+Los Lagos;0.15490136;0.29529092;Average
+Mafil;0.12555116;0.29800181;Average
+Mariquina;0.15628272;0.24051953;Average
+Paillaco;0.19127224;0.25253485;Average
+Panguipulli;0.14695453;0.3258433;Average
+La Union;0.1334944;0.24474091;Average
+Futrono;0.14073058;0.32934762;Average
+Lago Ranco;0.14616602;0.37721825;Average
+Rio Bueno;0.16441624;0.30065041;Average
+Arica;0.08343243;0.21117414;Not vulnerable
+Camarones;0.08799863;0.58687589;Not vulnerable
+Putre;0.14501979;0.5032156;Average
+General Lagos;0.20996549;0.6719668;Vulnerable
+Chillan;0.11666087;0.17715121;Average
+Bulnes;0.14880693;0.28693441;Average
+Chillan Viejo;0.19102634;0.2404726;Average
+El Carmen;0.28766531;0.34075869;Vulnerable
+Pemuco;0.23840729;0.28481367;Vulnerable
+Pinto;0.25063218;0.37132874;Vulnerable
+Quillon;0.16656863;0.30657764;Average
+San Ignacio;0.24871311;0.32797332;Vulnerable
+Yungay;0.19379242;0.1988546;Average
+Quirihue;0.18259972;0.35300313;Average
+Cobquecura;0.34175233;0.47244792;Vulnerable
+Coelemu;0.18277766;0.30724551;Average
+Ninhue;0.25342266;0.34760358;Vulnerable
+Portezuelo;0.18694311;0.35473162;Average
+Treguaco;0.2058784;0.23650528;Vulnerable
+San Carlos;0.13799042;0.27495298;Average
+Coihueco;0.22031088;0.27251788;Vulnerable
+Ñiquen;0.19943576;0.30764155;Average
+San Fabian;0.13765151;0.32431595;Average
+San Nicolas;0.14310729;0.34965596;Average
+Abu Dhabi;0;0;Not vulnerable
+Agua Santa;0;0;Not vulnerable
+Aisen;0;0;Not vulnerable
+Alameda;0;0;Not vulnerable
+Alerce;0;0;Not vulnerable
+Alto Aconcagua;0;0;Not vulnerable
+Alto Jahuel;0;0;Not vulnerable
+Amman;0;0;Not vulnerable
+Amsterdam;0;0;Not vulnerable
+Andalien;0;0;Not vulnerable
+Ankara;0;0;Not vulnerable
+Antartica;0;0;Not vulnerable
+Antihuala;0;0;Not vulnerable
+Antilhue;0;0;Not vulnerable
+Antofagasta Norte;0;0;Not vulnerable
+Antofagasta Sur;0;0;Not vulnerable
+Apiao;0;0;Not vulnerable
+Apoquindo;0;0;Not vulnerable
+Arica Norte;0;0;Not vulnerable
+Arrau-Mendez;0;0;Not vulnerable
+Asuncion;0;0;Not vulnerable
+Atenas;0;0;Not vulnerable
+Auckland;0;0;Not vulnerable
+Ayacara;0;0;Not vulnerable
+Bahia Blanca;0;0;Not vulnerable
+Bahia Mansa;0;0;Not vulnerable
+Bahia Murta;0;0;Not vulnerable
+Bajos De Mena;0;0;Not vulnerable
+Balmaceda;0;0;Not vulnerable
+Bangkok;0;0;Not vulnerable
+Barcelona;0;0;Not vulnerable
+Bariloche;0;0;Not vulnerable
+Baron;0;0;Not vulnerable
+Barraza;0;0;Not vulnerable
+Barros Arana;0;0;Not vulnerable
+Batuco;0;0;Not vulnerable
+Beijing;0;0;Not vulnerable
+Beirut;0;0;Not vulnerable
+Belen;0;0;Not vulnerable
+Bellavista;0;0;Not vulnerable
+Berlin;0;0;Not vulnerable
+Berna;0;0;Not vulnerable
+Bogota;0;0;Not vulnerable
+Brasilia;0;0;Not vulnerable
+Bruselas;0;0;Not vulnerable
+Bucalemu;0;0;Not vulnerable
+Bucarest;0;0;Not vulnerable
+Buchupureo;0;0;Not vulnerable
+Budapest;0;0;Not vulnerable
+Buenos Aires;0;0;Not vulnerable
+Buenos Aires;0;0;Not vulnerable
+Bustamante;0;0;Not vulnerable
+Cabo De Hornos (Navarino);0;0;Not vulnerable
+Cachapoal;0;0;Not vulnerable
+Caimanes;0;0;Not vulnerable
+Cajon;0;0;Not vulnerable
+Calgary;0;0;Not vulnerable
+Campanario;0;0;Not vulnerable
+Canberra;0;0;Not vulnerable
+Cancura;0;0;Not vulnerable
+Canela (Canela Baja);0;0;Not vulnerable
+Cañitas;0;0;Not vulnerable
+Capitan Avalos;0;0;Not vulnerable
+Capitan Pastene;0;0;Not vulnerable
+Caracas;0;0;Not vulnerable
+Carampangue;0;0;Not vulnerable
+Carelmapu;0;0;Not vulnerable
+Caren;0;0;Not vulnerable
+Casma;0;0;Not vulnerable
+Castro Sur;0;0;Not vulnerable
+Catapilco;0;0;Not vulnerable
+Catillo;0;0;Not vulnerable
+Cauñicu;0;0;Not vulnerable
+Cayurruca;0;0;Not vulnerable
+Cerrillos De Tamaya;0;0;Not vulnerable
+Cerro Negro;0;0;Not vulnerable
+Cerro Ñielol;0;0;Not vulnerable
+Chacao;0;0;Not vulnerable
+Chacayal;0;0;Not vulnerable
+Chamiza;0;0;Not vulnerable
+Champa;0;0;Not vulnerable
+Chanavayita;0;0;Not vulnerable
+Chañaral Alto;0;0;Not vulnerable
+Chaulinec;0;0;Not vulnerable
+Chellepin;0;0;Not vulnerable
+Cherquenco;0;0;Not vulnerable
+Chiapa;0;0;Not vulnerable
+Chicago;0;0;Not vulnerable
+Chicureo;0;0;Not vulnerable
+Chincolco;0;0;Not vulnerable
+Chiu Chiu;0;0;Not vulnerable
+Choshuenco;0;0;Not vulnerable
+Chuquicamata;0;0;Not vulnerable
+Ciruelos;0;0;Not vulnerable
+Ciudad De Los Valles;0;0;Not vulnerable
+Ciudad De Mexico;0;0;Not vulnerable
+Ciudad De Panama;0;0;Not vulnerable
+Ciudad Satelite;0;0;Not vulnerable
+Cochabamba;0;0;Not vulnerable
+Codpa;0;0;Not vulnerable
+Coigue;0;0;Not vulnerable
+Coihueco Sur;0;0;Not vulnerable
+Colaco;0;0;Not vulnerable
+Colin;0;0;Not vulnerable
+Comodoro Rivadavia;0;0;Not vulnerable
+Comuy;0;0;Not vulnerable
+Concepcion Centro;0;0;Not vulnerable
+Concordia;0;0;Not vulnerable
+Consistorial;0;0;Not vulnerable
+Contao;0;0;Not vulnerable
+Coñaripe;0;0;Not vulnerable
+Copenhague;0;0;Not vulnerable
+Copiulemu;0;0;Not vulnerable
+Corcovado;0;0;Not vulnerable
+Cordoba;0;0;Not vulnerable
+Corinto;0;0;Not vulnerable
+Correntoso;0;0;Not vulnerable
+Corte Alto;0;0;Not vulnerable
+Costa Blanca;0;0;Not vulnerable
+Coya;0;0;Not vulnerable
+Crucero;0;0;Not vulnerable
+Cucao;0;0;Not vulnerable
+Cuncumen;0;0;Not vulnerable
+Curriñe;0;0;Not vulnerable
+Dichato;0;0;Not vulnerable
+Domeyko;0;0;Not vulnerable
+Duao;0;0;Not vulnerable
+Dublin;0;0;Not vulnerable
+El Belloto;0;0;Not vulnerable
+El Cairo;0;0;Not vulnerable
+El Centro;0;0;Not vulnerable
+El Cortijo;0;0;Not vulnerable
+El Golf;0;0;Not vulnerable
+El Melon;0;0;Not vulnerable
+El Palqui;0;0;Not vulnerable
+El Principal;0;0;Not vulnerable
+El Puerto;0;0;Not vulnerable
+El Salvador;0;0;Not vulnerable
+El Tambo;0;0;Not vulnerable
+El Transito;0;0;Not vulnerable
+Ensenada;0;0;Not vulnerable
+Esmeralda;0;0;Not vulnerable
+Estacion Lo Espejo;0;0;Not vulnerable
+Estadio Nacional;0;0;Not vulnerable
+Estocolmo;0;0;Not vulnerable
+Folilco;0;0;Not vulnerable
+Forestal;0;0;Not vulnerable
+Frankfurt;0;0;Not vulnerable
+Fundo El Carmen;0;0;Not vulnerable
+General Cruz;0;0;Not vulnerable
+Gotemburgo;0;0;Not vulnerable
+Gualleco;0;0;Not vulnerable
+Guangzhou;0;0;Not vulnerable
+Guarilihue;0;0;Not vulnerable
+Guatemala;0;0;Not vulnerable
+Guayaquil;0;0;Not vulnerable
+Gultro;0;0;Not vulnerable
+Hamburgo;0;0;Not vulnerable
+Hanoi;0;0;Not vulnerable
+Helsinki;0;0;Not vulnerable
+Hong Kong;0;0;Not vulnerable
+Houston;0;0;Not vulnerable
+Hualaihue Puerto;0;0;Not vulnerable
+Hualpin;0;0;Not vulnerable
+Huaquen;0;0;Not vulnerable
+Huelmo;0;0;Not vulnerable
+Huelquen;0;0;Not vulnerable
+Huequen;0;0;Not vulnerable
+Huerta Del Maule;0;0;Not vulnerable
+Huertos Familiares;0;0;Not vulnerable
+Hueyusca;0;0;Not vulnerable
+Huiscapi;0;0;Not vulnerable
+Hurtado;0;0;Not vulnerable
+Icalma;0;0;Not vulnerable
+Ignao;0;0;Not vulnerable
+Iloca;0;0;Not vulnerable
+Iquique Sur;0;0;Not vulnerable
+Isla Del Rey;0;0;Not vulnerable
+Isla Guar;0;0;Not vulnerable
+Isla Maillen;0;0;Not vulnerable
+Isla Mocha;0;0;Not vulnerable
+Isla Puluqui;0;0;Not vulnerable
+Isla Santa Maria;0;0;Not vulnerable
+Jakarta;0;0;Not vulnerable
+Jose Pedro Alessandri;0;0;Not vulnerable
+Kingston;0;0;Not vulnerable
+Kuala Lumpur;0;0;Not vulnerable
+La Habana;0;0;Not vulnerable
+La Huerta;0;0;Not vulnerable
+La Junta;0;0;Not vulnerable
+La Laja;0;0;Not vulnerable
+La Pasada;0;0;Not vulnerable
+La Paz;0;0;Not vulnerable
+La Paz;0;0;Not vulnerable
+La Punta;0;0;Not vulnerable
+La Tapera;0;0;Not vulnerable
+La Tirana;0;0;Not vulnerable
+La Vara;0;0;Not vulnerable
+Labranza;0;0;Not vulnerable
+Lago Rapel (El Manzano);0;0;Not vulnerable
+Laguna Verde;0;0;Not vulnerable
+Lagunillas;0;0;Not vulnerable
+Laraquete;0;0;Not vulnerable
+Las Americas;0;0;Not vulnerable
+Las Animas;0;0;Not vulnerable
+Las Canteras;0;0;Not vulnerable
+Las Cascadas;0;0;Not vulnerable
+Las Compañias;0;0;Not vulnerable
+Las Quemas;0;0;Not vulnerable
+Lastarria;0;0;Not vulnerable
+Lenca;0;0;Not vulnerable
+Lican-Ray;0;0;Not vulnerable
+Lima;0;0;Not vulnerable
+Liquiñe;0;0;Not vulnerable
+Lirquen;0;0;Not vulnerable
+Lisboa;0;0;Not vulnerable
+Liucura;0;0;Not vulnerable
+Llanada Grande;0;0;Not vulnerable
+Llay-Llay;0;0;Not vulnerable
+Llico;0;0;Not vulnerable
+Llico De Mataquito;0;0;Not vulnerable
+Llifen;0;0;Not vulnerable
+Lliuco;0;0;Not vulnerable
+Lo Herrera;0;0;Not vulnerable
+Lo Miranda;0;0;Not vulnerable
+Lo Negrete;0;0;Not vulnerable
+Lo Valledor;0;0;Not vulnerable
+Lomas Coloradas;0;0;Not vulnerable
+Londres;0;0;Not vulnerable
+Lontue;0;0;Not vulnerable
+Los Cerros;0;0;Not vulnerable
+Los Laureles;0;0;Not vulnerable
+Los Libertadores;0;0;Not vulnerable
+Los Lirios;0;0;Not vulnerable
+Los Loros;0;0;Not vulnerable
+Los Molles;0;0;Not vulnerable
+Los Niches;0;0;Not vulnerable
+Los Pajaritos;0;0;Not vulnerable
+Los Volcanes;0;0;Not vulnerable
+Luis Cruz Martinez;0;0;Not vulnerable
+Madrid;0;0;Not vulnerable
+Maipu Poniente;0;0;Not vulnerable
+Malalcahuello;0;0;Not vulnerable
+Malalhue;0;0;Not vulnerable
+Mamiña;0;0;Not vulnerable
+Managua;0;0;Not vulnerable
+Manila;0;0;Not vulnerable
+Mantilhue;0;0;Not vulnerable
+Mañihuales;0;0;Not vulnerable
+Mar Del Plata;0;0;Not vulnerable
+Mechuque;0;0;Not vulnerable
+Medio Camino;0;0;Not vulnerable
+Mehuin;0;0;Not vulnerable
+Melbourne;0;0;Not vulnerable
+Melefquen;0;0;Not vulnerable
+Melozal;0;0;Not vulnerable
+Mendoza;0;0;Not vulnerable
+Metahue;0;0;Not vulnerable
+Meulin;0;0;Not vulnerable
+Miami;0;0;Not vulnerable
+Milan;0;0;Not vulnerable
+Millantu;0;0;Not vulnerable
+Mincha;0;0;Not vulnerable
+Mininco;0;0;Not vulnerable
+Miraflores;0;0;Not vulnerable
+Mision De La Costa;0;0;Not vulnerable
+Molulco;0;0;Not vulnerable
+Monte Aguila;0;0;Not vulnerable
+Montemar;0;0;Not vulnerable
+Montevideo;0;0;Not vulnerable
+Montreal;0;0;Not vulnerable
+Moscu;0;0;Not vulnerable
+Munich;0;0;Not vulnerable
+Nairobi;0;0;Not vulnerable
+Nehuentue;0;0;Not vulnerable
+Neltume;0;0;Not vulnerable
+Neuquen;0;0;Not vulnerable
+Niebla;0;0;Not vulnerable
+Nirivilo;0;0;Not vulnerable
+Nontuela;0;0;Not vulnerable
+Nueva Braunau;0;0;Not vulnerable
+Nueva Delhi;0;0;Not vulnerable
+Nueva York;0;0;Not vulnerable
+Ñancul;0;0;Not vulnerable
+Ñirehuao;0;0;Not vulnerable
+O'Higgins;0;0;Not vulnerable
+Observatorio;0;0;Not vulnerable
+Olivar (Alto);0;0;Not vulnerable
+Ollague;0;0;Not vulnerable
+Olmopulli;0;0;Not vulnerable
+Orilla Del Maule;0;0;Not vulnerable
+Oslo;0;0;Not vulnerable
+Ottawa;0;0;Not vulnerable
+P Aguirre Cerda N.;0;0;Not vulnerable
+P Aguirre Cerda S.;0;0;Not vulnerable
+Paihuano;0;0;Not vulnerable
+Pailahueque;0;0;Not vulnerable
+Paillihue;0;0;Not vulnerable
+Paipote;0;0;Not vulnerable
+Palomar;0;0;Not vulnerable
+Pargua;0;0;Not vulnerable
+Paris;0;0;Not vulnerable
+Parque Almagro;0;0;Not vulnerable
+Parque O'Higgins;0;0;Not vulnerable
+Pedro De Valdivia;0;0;Not vulnerable
+Pedro De Valdivia (Temuco);0;0;Not vulnerable
+Pehuen;0;0;Not vulnerable
+Pelchuquin;0;0;Not vulnerable
+Pelequen;0;0;Not vulnerable
+Pencahue-Batuco;0;0;Not vulnerable
+Perth;0;0;Not vulnerable
+Peulla;0;0;Not vulnerable
+Pichicuy;0;0;Not vulnerable
+Pichipellahuen;0;0;Not vulnerable
+Pichirropulli;0;0;Not vulnerable
+Pillanlelbun;0;0;Not vulnerable
+Pilluco;0;0;Not vulnerable
+Pisagua;0;0;Not vulnerable
+Placilla De Peñuelas;0;0;Not vulnerable
+Playa Ancha;0;0;Not vulnerable
+Playa Los Molles;0;0;Not vulnerable
+Plaza Egaña;0;0;Not vulnerable
+Plaza Ñuñoa;0;0;Not vulnerable
+Pocillas;0;0;Not vulnerable
+Polcura;0;0;Not vulnerable
+Porto Alegre;0;0;Not vulnerable
+Praga;0;0;Not vulnerable
+Pretoria;0;0;Not vulnerable
+Pua;0;0;Not vulnerable
+Pudahuel Sur;0;0;Not vulnerable
+Pueblo Seco;0;0;Not vulnerable
+Puelo;0;0;Not vulnerable
+Puente Negro;0;0;Not vulnerable
+Puente Ñuble;0;0;Not vulnerable
+Puerto Aguirre;0;0;Not vulnerable
+Puerto Chacabuco;0;0;Not vulnerable
+Puerto Dominguez;0;0;Not vulnerable
+Puerto Eden;0;0;Not vulnerable
+Puerto Guadal;0;0;Not vulnerable
+Puerto Montt Centro E Isla Tenglo;0;0;Not vulnerable
+Puerto Montt Mirasol;0;0;Not vulnerable
+Puerto Montt Norte;0;0;Not vulnerable
+Puerto Nuevo;0;0;Not vulnerable
+Puerto Ordaz;0;0;Not vulnerable
+Puerto Principe;0;0;Not vulnerable
+Pullally;0;0;Not vulnerable
+Punta Lavapie;0;0;Not vulnerable
+Putu;0;0;Not vulnerable
+Puyehue (Entre Lagos);0;0;Not vulnerable
+Puyuhuapi;0;0;Not vulnerable
+Quehui;0;0;Not vulnerable
+Quenac;0;0;Not vulnerable
+Quenuir;0;0;Not vulnerable
+Quepe;0;0;Not vulnerable
+Queule;0;0;Not vulnerable
+Quilacahuin;0;0;Not vulnerable
+Quilimari;0;0;Not vulnerable
+Quillagua;0;0;Not vulnerable
+Quinchamali;0;0;Not vulnerable
+Quinchao (Achao);0;0;Not vulnerable
+Quino;0;0;Not vulnerable
+Quito;0;0;Not vulnerable
+Quitratue;0;0;Not vulnerable
+Rabat;0;0;Not vulnerable
+Radal;0;0;Not vulnerable
+Rafael;0;0;Not vulnerable
+Rahue;0;0;Not vulnerable
+Rahue Sur;0;0;Not vulnerable
+Ralco Lepoy;0;0;Not vulnerable
+Ralun;0;0;Not vulnerable
+Ramadillas;0;0;Not vulnerable
+Rancagua Oriente;0;0;Not vulnerable
+Ranguelmo;0;0;Not vulnerable
+Ranquil (Ñipas);0;0;Not vulnerable
+Rapel;0;0;Not vulnerable
+Recinto;0;0;Not vulnerable
+Recoleta Sur;0;0;Not vulnerable
+Reñaca Bajo;0;0;Not vulnerable
+Rere;0;0;Not vulnerable
+Reumen;0;0;Not vulnerable
+Riachuelo;0;0;Not vulnerable
+Rilan;0;0;Not vulnerable
+Riñihue;0;0;Not vulnerable
+Riñinahue;0;0;Not vulnerable
+Rio Claro (Cumpeo);0;0;Not vulnerable
+Rio Colorado;0;0;Not vulnerable
+Rio De Janeiro;0;0;Not vulnerable
+Rio Gallegos;0;0;Not vulnerable
+Rio Grande;0;0;Not vulnerable
+Rio Hurtado (Samo Alto);0;0;Not vulnerable
+Rio Tranquilo;0;0;Not vulnerable
+Rolecha;0;0;Not vulnerable
+Roma;0;0;Not vulnerable
+Rosario;0;0;Not vulnerable
+Rosario;0;0;Not vulnerable
+Rucapequen;0;0;Not vulnerable
+Salt Lake City;0;0;Not vulnerable
+Salta;0;0;Not vulnerable
+Saltos Del Laja;0;0;Not vulnerable
+San Carlos De Puren;0;0;Not vulnerable
+San Felix;0;0;Not vulnerable
+San Francisco;0;0;Not vulnerable
+San Jose;0;0;Not vulnerable
+San Jose De Colico;0;0;Not vulnerable
+San Jose De La Estrella;0;0;Not vulnerable
+San Lorenzo De Tarapaca;0;0;Not vulnerable
+San Luis;0;0;Not vulnerable
+San Luis;0;0;Not vulnerable
+San Miguel De Azapa;0;0;Not vulnerable
+San Pedro De Alcantara;0;0;Not vulnerable
+San Pedro De Quillota;0;0;Not vulnerable
+San Ramon (Padre Las Casas);0;0;Not vulnerable
+San Salvador;0;0;Not vulnerable
+Santa Clara;0;0;Not vulnerable
+Santa Fe;0;0;Not vulnerable
+Santa Olga;0;0;Not vulnerable
+Santa Rosa;0;0;Not vulnerable
+Sao Paulo;0;0;Not vulnerable
+Sarmiento;0;0;Not vulnerable
+Sausalito;0;0;Not vulnerable
+Sauzal;0;0;Not vulnerable
+Seattle;0;0;Not vulnerable
+Sector Ex Barrio Industrial De Arica;0;0;Not vulnerable
+Selva Obscura;0;0;Not vulnerable
+Seul;0;0;Not vulnerable
+Shanghai;0;0;Not vulnerable
+Sierra Gorda Norte;0;0;Not vulnerable
+Singapur;0;0;Not vulnerable
+Sotero Del Rio;0;0;Not vulnerable
+Sydney;0;0;Not vulnerable
+Tacna;0;0;Not vulnerable
+Talcamavida;0;0;Not vulnerable
+Tegualda;0;0;Not vulnerable
+Tegucigalpa;0;0;Not vulnerable
+Tel Aviv;0;0;Not vulnerable
+Temuco Centro;0;0;Not vulnerable
+Temuco Norte;0;0;Not vulnerable
+Temuco Sur;0;0;Not vulnerable
+Tenaun;0;0;Not vulnerable
+Tierras Blancas;0;0;Not vulnerable
+Tijeral;0;0;Not vulnerable
+Toconey;0;0;Not vulnerable
+Tokio;0;0;Not vulnerable
+Tomeco;0;0;Not vulnerable
+Tongoy;0;0;Not vulnerable
+Toronto;0;0;Not vulnerable
+Torres Del Paine (C. Castillo);0;0;Not vulnerable
+Trelew;0;0;Not vulnerable
+Tres Esquinas;0;0;Not vulnerable
+Trinidad;0;0;Not vulnerable
+Trovolhue;0;0;Not vulnerable
+Trupan;0;0;Not vulnerable
+Tubul;0;0;Not vulnerable
+Tucapel (Huepil);0;0;Not vulnerable
+Ushuaia;0;0;Not vulnerable
+Valdivia De Paine;0;0;Not vulnerable
+Valle Grande;0;0;Not vulnerable
+Valle Simpson;0;0;Not vulnerable
+Vancouver;0;0;Not vulnerable
+Varsovia;0;0;Not vulnerable
+Vegas De Itata;0;0;Not vulnerable
+Ventanas;0;0;Not vulnerable
+Viena;0;0;Not vulnerable
+Vilches;0;0;Not vulnerable
+Villa Amengual;0;0;Not vulnerable
+Villa Cerro Castillo;0;0;Not vulnerable
+Villa Ortega;0;0;Not vulnerable
+Villa Prat;0;0;Not vulnerable
+Villa Santa Lucia;0;0;Not vulnerable
+Washington;0;0;Not vulnerable
+Wellington;0;0;Not vulnerable
+Winnipeg;0;0;Not vulnerable
+Yumbel Estacion;0;0;Not vulnerable
+Zagreb;0;0;Not vulnerable
+Zuñiga;0;0;Not vulnerable

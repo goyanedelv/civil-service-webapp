@@ -3,7 +3,9 @@ const http = require('http');
 var assert = require('assert');
 const express= require('express');
 const app = express();
+
 const mustache = require('mustache');
+
 const filesystem = require('fs');
 const url = require('url');
 const port = Number(process.argv[2]);
@@ -20,6 +22,7 @@ function rowToMap(row) {
 	return stats;
 }
 
+// First table
 hclient.table('gov_electoral_data').row('10001064').get((error, value) => {
 	console.info(rowToMap(value))
 	console.info(value)
